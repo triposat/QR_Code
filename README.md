@@ -11,3 +11,12 @@
 </p>
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/QR_Code/blob/main/qr_code.py"><img src="https://img.shields.io/badge/-QR Code Generator-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+
+  ### Install the module:
+```python
+~ pip install qrcode
+```             
+### Import the module:
+```python
+ import qrcode
+```
