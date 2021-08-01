@@ -2,8 +2,7 @@
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
 ![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/QR_Code?color=red&label=Repo%20Size%20)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/QR_Code?color=red&label=Lines%20of%20Code)
-![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/QR_Code?color=red&label=Lines%20of%20Code)</br>
 ![sds](https://profile-counter.glitch.me/{QR_Code}/count.svg)
 
 <p align="center">
