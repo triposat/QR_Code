@@ -6,7 +6,7 @@ import qrcode # pip install qrcode
 qr = qrcode.QRCode(
     version=1, error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=40, border=1)
 
-qr.add_data("https://github.com/Iamtripathisatyam/")
+qr.add_data("https://github.com/Iamtripathisatyam/") # Some Data for the QR Code!
 qr.make(fit=True)
 
 # Fill the colors
